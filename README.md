@@ -1,3 +1,31 @@
+
+# FSWD - Full Stack Web Development Project
+
+## Technologies Used
+
+| Area              | Technologies               |
+|-------------------|----------------------------|
+| **Frontend**      | HTML, CSS, JavaScript      |
+|                   | Framework: React.js         |
+|                   | State Management: Redux    |
+|                   | UI Library: Material-UI    |
+| **Backend**       | Language: Node.js          |
+|                   | Framework: Express.js      |
+|                   | Authentication: JWT        |
+|                   | Database: MongoDB          |
+| **Deployment**    | Hosting: Netlify (Frontend) |
+|                   | Hosting: Heroku (Backend)   |
+| **Testing**       | Unit Testing: Jest          |
+|                   | Integration Testing: Supertest |
+| **Version Control**| Git                        |
+| **DevOps**        | Docker, Docker Compose      |
+| **Monitoring**    | Logging: Winston            |
+|                   | Error Tracking: Sentry      |
+
+
+
+
+
 ### Full Stack Web Development Roadmap
 
 #### Phase 1: Project Setup and Planning
