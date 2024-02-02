@@ -1,4 +1,5 @@
 
+
 # FSWD - Full Stack Web Development Project
 
 ## Technologies Used
@@ -6,25 +7,24 @@
 | Area              | Technologies               |
 |-------------------|----------------------------|
 | **Frontend**      | HTML, CSS, JavaScript      |
-|                   | Framework: React.js         |
-|                   | State Management: Redux    |
-|                   | UI Library: Material-UI    |
+|                   | Framework: React.js ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)         |
+|                   | State Management: Redux ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)    |
+|                   | UI Library: Material-UI ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)    |
 | **Backend**       | Language: Node.js          |
-|                   | Framework: Express.js      |
-|                   | Authentication: JWT        |
-|                   | Database: MongoDB          |
-| **Deployment**    | Hosting: Netlify (Frontend) |
-|                   | Hosting: Heroku (Backend)   |
-| **Testing**       | Unit Testing: Jest          |
+|                   | Framework: Express.js ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)      |
+|                   | Authentication: JWT ![JWT](https://img.shields.io/badge/-JWT-000000)        |
+|                   | Database: MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)      |
+| **Deployment**    | Hosting: Netlify (Frontend) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) |
+|                   | Hosting: Heroku (Backend) ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)   |
+| **Testing**       | Unit Testing: Jest ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)       |
 |                   | Integration Testing: Supertest |
-| **Version Control**| Git                        |
-| **DevOps**        | Docker, Docker Compose      |
+| **Version Control**| Git ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)                        |
+| **DevOps**        | Docker, Docker Compose ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)      |
 | **Monitoring**    | Logging: Winston            |
-|                   | Error Tracking: Sentry      |
+|                   | Error Tracking: Sentry ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)    |
 
 
-
-
+...
 
 ### Full Stack Web Development Roadmap
 
