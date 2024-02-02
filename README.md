@@ -1,16 +1,15 @@
 
-
 # FSWD - Full Stack Web Development Project
 
 ## Technologies Used
 
 | Area              | Technologies               |
 |-------------------|----------------------------|
-| **Frontend**      | HTML, CSS, JavaScript      |
+| **Frontend**      | HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white), CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white), JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)      |
 |                   | Framework: React.js ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)         |
 |                   | State Management: Redux ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)    |
 |                   | UI Library: Material-UI ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)    |
-| **Backend**       | Language: Node.js          |
+| **Backend**       | Language: Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)          |
 |                   | Framework: Express.js ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)      |
 |                   | Authentication: JWT ![JWT](https://img.shields.io/badge/-JWT-000000)        |
 |                   | Database: MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)      |
@@ -20,8 +19,7 @@
 |                   | Integration Testing: Supertest |
 | **Version Control**| Git ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)                        |
 | **DevOps**        | Docker, Docker Compose ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)      |
-| **Monitoring**    | Logging: Winston            |
-|                   | Error Tracking: Sentry ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)    |
+| **Monitoring**    | Error Tracking: Sentry ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)    |
 
 
 ...
