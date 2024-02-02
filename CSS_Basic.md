@@ -1,1 +1,13 @@
-
+| Topic             | Description                                 | Resources                                     |
+|-------------------|---------------------------------------------|-----------------------------------------------|
+| Selectors         | Targeting HTML elements in CSS              | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors), [W3Schools](https://www.w3schools.com/css/css_selectors.asp)                       |
+| Box Model         | Understanding content, padding, border, margin | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model), [CSS Tricks](https://css-tricks.com/the-css-box-model/)                   |
+| Display           | Specifying how elements are displayed       | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/display), [W3Schools](https://www.w3schools.com/css/css_display_visibility.asp)                       |
+| Positioning       | Controlling the placement of elements       | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/position), [CSS Tricks](https://css-tricks.com/almanac/properties/p/position/)                     |
+| Colors            | Setting colors for text and backgrounds     | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value), [CSS Tricks](https://css-tricks.com/almanac/properties/c/color/)                       |
+| Backgrounds       | Styling backgrounds of elements             | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background), [CSS Tricks](https://css-tricks.com/almanac/properties/b/background/)                      |
+| Fonts             | Changing the font style and size             | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/font), [CSS Tricks](https://css-tricks.com/almanac/properties/f/font/)                       |
+| Flexbox           | Layout model for one-dimensional layouts    | [CSS Tricks Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)               |
+| Grid Layout       | Layout model for two-dimensional layouts    | [CSS Tricks Guide](https://css-tricks.com/snippets/css/complete-guide-grid/), [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)                |
+| Transitions       | Creating smooth transitions between states   | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions), [CSS Tricks](https://css-tricks.com/almanac/properties/t/transition/)                   |
+| Animations        | Adding dynamic animations to elements        | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations), [CSS Tricks](https://css-tricks.com/almanac/properties/a/animation/)                   |
