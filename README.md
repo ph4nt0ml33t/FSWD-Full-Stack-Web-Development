@@ -111,3 +111,15 @@
     - Iterate on features, enhance security, and incorporate user feedback.
 
 Adjust the roadmap based on your specific project requirements and timeline. This provides a structured approach to developing a Full Stack Web application.
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-ph4nt0m__1337-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ph4nt0m_1337/)
+[![Twitter](https://img.shields.io/badge/Twitter-ph4nt0m__1337-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ph4nt0m_1337)
+
+
+...
+
+## Connect with Me
+
+- Instagram: [@ph4nt0m_1337](https://www.instagram.com/ph4nt0m_1337/)
+- Twitter: [@ph4nt0m_1337](https://twitter.com/ph4nt0m_1337)
